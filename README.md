@@ -57,7 +57,7 @@ const megh = {
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" style="border-radius: 12px;"/>
 
-<br/><br/>
+<br/>
 
 **🎯 2025 Goals:**
 - Contribute to 10+ Open Source Projects
@@ -150,44 +150,11 @@ const megh = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeGH2711/MeGH2711/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeGH2711/MeGH2711/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MeGH2711/MeGH2711/output/github-snake.svg" />
-  </picture>
-</div>
-
-> **⚙️ Setup:** Add this GitHub Action to generate the snake animation:  
-> Repo → Actions → New Workflow → Paste the [snake workflow](https://github.com/Platane/snk#usage)
-
----
-
-## 📈 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MeGH2711&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&hide_border=true" width="80%" alt="Top Repos"/>
-</div>
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Dev Quote"/>
 </div>
-
----
-
-## 📅 Coding Activity (WakaTime)
-
-> **💡 Optional:** Connect [WakaTime](https://wakatime.com) to your editor and add this to track real coding hours:
-
-```
-[![Megh's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MeGH2711&theme=midnight-purple&hide_border=true)](https://wakatime.com/@MeGH2711)
-```
 
 ---
 
