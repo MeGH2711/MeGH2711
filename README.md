@@ -38,7 +38,12 @@ const megh = {
   role: "Full Stack Developer & AI Enthusiast",
   
   currentlyWorking: "Building AI-powered web apps",
-  currentlyLearning: ["Machine Learning", "LLMs", "NLP Models", "Deep Learning"],
+  currentlyLearning: [
+    "Machine Learning",
+    "LLMs",
+    "NLP Models",
+    "Deep Learning"
+  ],
   
   askMeAbout: [
     "React", "Python", "AI/ML",
