@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Megh%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa"/>
+<img width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Megh%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa" />
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/MeGH2711">
@@ -12,7 +13,6 @@
 
 <!-- Profile Views & Followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MeGH2711&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MeGH2711?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web%20Dev-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Focus" />
 </p>
